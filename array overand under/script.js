@@ -1,4 +1,4 @@
-const grades =[99,77,66,91,87];
+const grades =[99,77,66,34,87];
 // find the first grade that is less than 80
  
 const underEighty =grades.find ((Element) => Element < 80);
