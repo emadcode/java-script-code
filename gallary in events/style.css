@@ -1,0 +1,16 @@
+
+.photos img{
+    border: 5px solid #aaa;
+    width: 140px;
+    
+    
+}
+.photos img:hover{
+    border: 5px solid crimson;
+    cursor: pointer;
+}
+.main img{
+    width: 450px;
+    height: 500px;
+    border:5px solid #aaa;
+}
