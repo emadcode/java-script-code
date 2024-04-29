@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    
+}
+.navber{
+    width: 189px;
+    height: 100vh;
+    background-color: antiquewhite;
+    cursor: pointer;
+
+
+    
+
+
+}
+ .navber p:hover,button:hover{
+    background-color: rgb(184, 34, 34);
+ }
+.navber{
+    padding: 5px;
+
+}
+p{
+    padding: 5px;
+    width: auto;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    border-radius: 5pc;
+    cursor: pointer;
+}
+#close{
+    position: absolute;
+    left: 200px;
+    width: auto;
+}
+.hide{
+    display: none;
+}
+input{
+    padding: 5px;
+    width: 150;
+    background-color:  antiquewhite ;
+
+}
+body{
+    background-color: bisque;
+}
+h1{
+left: 200px;
+}
+
