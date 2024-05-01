@@ -1,0 +1,19 @@
+div{
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+#red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#black{
+    background-color: black;
+}
