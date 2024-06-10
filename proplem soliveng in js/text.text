@@ -1,0 +1,10 @@
+    Consider you have an array containing a set of sorted integers.
+     Write a function to search for a specific element in this array. 
+    The function should meet the following conditions:
+
+        Do not use the built-in JavaScript search function.
+        Do not use iteration loops (like for and while) in the search.
+        The function should return the index of the desired element in the array.
+        The time complexity of the search operation should be O(log n).
+
+    Can you write this function?
