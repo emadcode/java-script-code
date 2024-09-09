@@ -1,21 +1,13 @@
-//var name="Emad";
-//rconsole.log(name);
-
-
-
-//let age =22;
-//console.log(age);
-
-
-function sayhelloomda(){
-    let greeting ="hello omda";
-    if (true){
-        var name ="Emad";
-        let age ="22";
-        console.log(greeting+","+ name);
-
-    }
-    console.log(name);
-
-}
-sayhelloomda();
+/*
+data types intro
+-- string
+-- number
+-- array => object
+--object
+*/
+console.log("omda holm");
+console.log(typeof "Emad Omda");
+console.log(typeof 5000);
+console.log(typeof 500.90);
+console.log(typeof[10,20,30]);
+console.log(typeof{nmae:"emad",age:22})
